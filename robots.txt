@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /og.html
+Disallow: /icon.html
+
+Sitemap: https://warmleads.ai/sitemap.xml
